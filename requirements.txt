@@ -5,3 +5,4 @@ numpy
 scikit-learn
 nltk
 openpyxl
+h5py
